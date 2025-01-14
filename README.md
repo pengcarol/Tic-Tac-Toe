@@ -8,8 +8,9 @@ Instructions:
 - Players take turns placing their mark (X or O) on an empty spot by entering the corresponding number 
 - The game ends when a player wins by aligning three marks vertically, horizontally, or diagonally, or when the board is full (resulting in a draw)
 
-Board with corresponding positions:
-            1|2|3
-            4|5|6
-            7|8|9
+Sample Board (to show corresponding positions):
+
+
+![image](https://github.com/user-attachments/assets/2af9abbe-0043-4102-9acc-e4dc7329a8bf)
+
 
